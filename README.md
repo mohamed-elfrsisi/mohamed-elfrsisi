@@ -1,6 +1,10 @@
 <div align="center">
+  <img src="https://pin.it/3LgfnwJ4o" width="100%" alt="Mohamed Elfarsisi Banner" />
+</div>
+
+<div align="center">
   <h1>Hi, I'm Mohamed Elfarsisi 👋</h1>
-  <p><strong>Software Engineering Intern | AI & Digital Transformation Enthusiast</strong></p>
+  <p><strong>Software Engineering Intern | AI & Digital Transformation Specialist</strong></p>
 
   <p>
     <a href="https://linkedin.com/in/mohamed-elfarsisi-518a34333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,12 +16,12 @@
   <table>
     <tr>
       <td width="60%">
-        <h3>🚀 At a Glance</h3>
+        <h3>🚀 Career Highlights</h3>
         <ul>
-          <li><strong>NASA Space Apps Global Nominee:</strong> Recognized in the Top 1% Worldwide for AI-powered resource optimization[cite: 7, 32].</li>
-          <li><strong>Microsoft Learn Student Ambassador:</strong> Leading workshops on Azure Cloud and AI integration[cite: 40, 41].</li>
-          <li><strong>Industrial AI Certified:</strong> Huawei HCIA-AI professional focusing on Deep Learning and Digital Twins[cite: 11].</li>
-          <li><strong>Current Focus:</strong> Engineering scalable full-stack applications at the National Telecommunication Institute (NTI)[cite: 18, 20].</li>
+          <li><strong>NASA Global Nominee:</strong> Recognized in the Top 1% Worldwide for AI-powered resource optimization.</li>
+          <li><strong>Microsoft Learn Student Ambassador:</strong> Leading Azure and AI integration workshops for 100+ students.</li>
+          <li><strong>Industrial AI Expert:</strong> Huawei HCIA-AI Certified professional specializing in Digital Transformation.</li>
+          <li><strong>Microsoft & MCIT Intern:</strong> Co-led digital transformation initiatives for social impact.</li>
         </ul>
       </td>
       <td width="40%">
@@ -29,36 +33,38 @@
 
 ### 🛠️ Technical Arsenal
 
-| Category | technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C++, C, JavaScript, SQL, TypeScript [cite: 14] |
-| **Frameworks** | React, Node.js, REST APIs, OOP [cite: 14] |
-| **Cloud & DevOps** | Microsoft Azure, Docker, CI/CD, Git/GitHub [cite: 15] |
-| **Specialized** | Industrial AI, Digital Twin, Predictive Modeling, System Analysis [cite: 16] |
+| **Languages** | Python, C++, C, JavaScript, SQL, HTML5/CSS3, TypeScript |
+| **Frameworks** | React, Node.js, REST APIs, Object-Oriented Programming (OOP) |
+| **Cloud & DevOps** | Microsoft Azure, Docker, CI/CD, Git/GitHub |
+| **Core Concepts** | Industrial AI, Process Automation, Digital Twin, Predictive Modeling, System Analysis |
 
-### 💼 Experience Highlights
+### 💼 Professional Experience
 
-* **Full Stack Engineering Trainee @ NTI** (2026–Present)  
-    Optimizing complex SQL schemas and building high-availability industrial web apps[cite: 18, 21].
-* **Software Engineering Intern @ Microsoft / MCIT** Co-led digital transformation initiatives and automated workflows via Azure for social impact[cite: 23, 24].
-* **Undergraduate Researcher @ URI** Aligning AI models with real-world engineering constraints for infrastructure challenges[cite: 27, 28].
-
-### 🏆 Key Achievements
-
-* **NASA Global Nominee (Top 1%):** Spearheaded an AI prototype for habitat sustainability using predictive analytics[cite: 32, 33].
-* **Huawei Certified ICT Associate:** Specialized in Machine Learning and Industrial AI applications[cite: 11].
-* **Harvard CS50 Alumnus:** Foundation in rigorous computer science and algorithmic thinking[cite: 12].
+* **Full Stack Engineering Trainee | NTI, Egypt** (2026–Present)
+    * Engineering scalable web applications using modern back-end frameworks and RESTful APIs.
+    * Optimizing SQL schemas for high-concurrency environments.
+* **Software Engineering & System Analysis Intern | Microsoft / MCIT / CARE Egypt**
+    * Automated complex operational workflows using Microsoft Azure to enhance process efficiency.
+    * Shipped high-quality features within cross-functional Scrum teams.
+* **Undergraduate Researcher | URI, Egypt**
+    * Executing data-driven research on AI models for local infrastructure challenges.
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Activity & Impact
+
+<div align="center">
+  <p><strong>My GitHub Contribution Journey</strong></p>
+  <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Contribution Snake" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <p><i>"Bridging the gap between academic theory and global industrial software standards."</i> [cite: 42]</p>
-  <p><b>Let's build something impactful.</b></p>
+  <p><i>"Specializing in Digital Transformation and Industrial AI to solve real-world engineering constraints."</i></p>
 </div>
