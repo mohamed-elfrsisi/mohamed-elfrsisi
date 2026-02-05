@@ -1,4 +1,4 @@
-<div align="center" width="100">
+<div align="center" width="50">
 
 <img src="https://i.pinimg.com/1200x/8d/fa/ba/8dfaba1f39dd7fcf2850e368b6b136cf.jpg" href="https://i.pinimg.com/1200x/8d/fa/ba/8dfaba1f39dd7fcf2850e368b6b136cf.jpg" alt="gumball"  width="40%"/><br> 
 
