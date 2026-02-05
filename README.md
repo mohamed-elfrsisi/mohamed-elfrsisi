@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://pin.it/2RCi2ruX9" href="https://pin.it/2RCi2ruX9" alt="Workspace"  width="40%"/><br> 
+<img src="https://pin.it/2RCi2ruX9" href="https://pin.it/3wbeOpGyC" alt="Workspace"  width="40%"/><br> 
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
