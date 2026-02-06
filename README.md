@@ -1,79 +1,98 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=200&section=header&text=Mohamed%20Elfarsisi&fontSize=70&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20|%20NASA%20Top%201%25&descAlignY=60&descSize=20&fontColor=F7DF1E" width="100%" alt="NYC Header" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=280&section=header&text=Mohamed%20Elfarsisi&fontSize=70&fontAlignY=35&desc=Engineering%20The%20Future%20with%20Industrial%20AI%20&descAlignY=55&descSize=20&fontColor=F7DF1E&animation=fadeIn" width="100%" alt="Header" />
 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=NASA+Global+Nominee+(Top+1%25);Software+Engineering+Intern;Industrial+AI+Specialist;Microsoft+Student+Ambassador" alt="Typing Animation" />
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=NASA+Global+Nominee+(Top+1%25);Microsoft+Learn+Student+Ambassador;Industrial+AI+Specialist;Full+Stack+Engineer" alt="Typing SVG" />
+    </a>
   </h1>
 
-  <p>
-    <strong>🏙️ From Tanta to the Global Stage</strong> <br />
-    Specializing in <b>Digital Transformation</b> and <b>Industrial AI</b>.
+  <p style="font-size: 1.1rem; max-width: 600px;">
+    <b>Bridging the gap between academic theory and global industrial standards.</b><br>
+    Based in Egypt, operating globally. Specializing in <b>Digital Twins</b>, <b>Predictive Modeling</b>, and <b>Cloud Architecture</b>.
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/mohamed-elfarsisi-518a34333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:mohamedelfrsisi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <img src="https://img.shields.io/badge/Status-Hustling-F7DF1E?style=for-the-badge&logo=target&logoColor=black" alt="Status" />
+    <a href="https://linkedin.com/in/mohamed-elfarsisi-518a34333" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:mohamedelfrsisi@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/mohamed-elfrsisi">
+      <img src="https://img.shields.io/badge/Portfolio-Live-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
   </p>
-</div>
-
-<hr />
-
-### 🗽 **The Empire State of Tech**
-* **NASA Space Apps Global Nominee:** Ranked in the **Top 1% Worldwide** — solving "space-sized" problems.
-* **Microsoft Learn Student Ambassador:** Leading the next generation of Cloud engineers.
-* **Huawei HCIA-AI Certified:** Deep Learning and Industrial AI expert.
-* **NTI Full Stack Trainee:** Building high-traffic, industrial-grade applications.
-
----
-
-### 🛠️ **The Toolbelt (NYC Yellow Edition)**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,react,nodejs,mysql,azure,docker,git,github,vscode,linux,html,css&perline=8" alt="Tech Stack" />
 </div>
 
 <br />
 
-| Neighborhood | Expertise |
-| :--- | :--- |
-| **Artificial Intelligence** | Predictive Modeling, Digital Twins, Machine Learning |
-| **Web Development** | React, Node.js, REST APIs, TypeScript |
-| **Cloud Infrastructure** | Microsoft Azure, Docker, CI/CD Pipelines |
-
----
-
-### 💼 **Career Skyline**
-* **NTI, Egypt | Full Stack Engineering Trainee** (2026–Present)
-* **Microsoft / MCIT / CARE Egypt | Software Engineering Intern** (2025)
-* **URI, Egypt | Undergraduate Researcher** (2025–Present)
-
----
-
-### 📉 **GitHub Subway Map (Activity)**
+<h2 align="center">🏆 Global Impact & Credentials</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake" />
-  
-  <br /><br />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-elfrsisi&show_icons=true&theme=dark&border_color=F7DF1E&hide_border=false" height="180px" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-elfrsisi&layout=compact&theme=dark&border_color=F7DF1E&hide_border=false" height="180px" alt="Top Languages" />
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" width="60" alt="NASA"/>
+        <br/><b>NASA Space Apps</b><br/>Global Nominee (Top 1%)
+      </td>
+      <td align="center" width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="60" alt="Microsoft"/>
+        <br/><b>Microsoft</b><br/>Student Ambassador
+      </td>
+      <td align="center" width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Huawei-Logo.svg" width="60" alt="Huawei"/>
+        <br/><b>Huawei Certified</b><br/>HCIA-AI Professional
+      </td>
+      <td align="center" width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png" width="60" alt="NTI"/>
+        <br/><b>NTI Egypt</b><br/>Full Stack Trainee
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br />
+
+<h2 align="center">⚡ The Technical Arsenal</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="900">
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,azure,docker,linux,bash&theme=dark&perline=8" alt="AI & Cloud"/>
+      <br/>
+      <b>Industrial AI & Cloud Infrastructure</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="900">
+      <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mysql,mongodb,git,vscode&theme=dark&perline=8" alt="Web Dev"/>
+      <br/>
+      <b>Full Stack Development</b>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">📊 Engineering Metrics</h2>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-elfrsisi&theme=ocean&no-bg=true&column=4&margin-w=15" alt="Trophies" />
+  <a href="https://github.com/mohamed-elfrsisi">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohamed-elfrsisi&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=0D1117&title_color=F7DF1E&icon_color=F7DF1E&text_color=ffffff" height="160" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/mohamed-elfrsisi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-elfrsisi&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=F7DF1E&text_color=ffffff" height="160" alt="Top Languages" />
+  </a>
 </div>
 
----
+<br />
 
-### 🐧 **The NYC "Rush Hour" Penguin**
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpNXJ6YnI5Nm9mZzJreGR6bm03Znc1ZndwdXp6bm96bm96bm96biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lp88vS5YwG98X42D8m/giphy.gif" width="220" alt="Funny Penguin DJ" />
-  <p><i>"Actual footage of me debugging at 3:00 AM..."</i></p>
-  <p><b>Bridging the gap between academic theory and global industrial software standards.</b></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-elfrsisi&theme=react-dark&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-<hr />
+<br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=F7DF1E&height=100&section=footer&text=Keep%20Building&fontSize=20&fontColor=000000" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=F7DF1E&height=80&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=0D1117" width="100%" alt="Footer" />
 </div>
